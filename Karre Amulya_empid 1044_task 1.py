@@ -7,6 +7,6 @@ print("\n===== PROFILE CARD =====")
 print (f"Name : {name} ")
 print (f"Age : {age}")
 print(f"City : {city}")
-print (f"Favourite Subject : (favourite_subject)")
+print (f"Favourite Subject : {favourite_subject}")
 print (f"Birth Year : {birth_year}")
 
