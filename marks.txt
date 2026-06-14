@@ -1,0 +1,10 @@
+Amulya,89
+Chinni,78
+Anju,98
+Mani,98
+Nani,90
+Shashi,78
+Siddu,90
+Varshi,78
+Abhilasha,89
+Usha,90
